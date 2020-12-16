@@ -7,7 +7,7 @@ We created two popular deep learning models DeepMedic and 3D U-Net in PyTorch fo
 |Testing|0.782|0.908|0.823|2.96|4.39|6.91|
 
 For more details about our methodology, please refer to our [paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.01449/full)
-For the training set, we use 5-folds cross validation. ET:Enhancing tumor, WT: whole tumor, TC: tumor core.The final trained model for multiclass classification is included along with the results on test dataset.
+ET:Enhancing tumor, WT: whole tumor, TC: tumor core.The final trained model for multiclass classification is included along with the results on test dataset.
 
 ## Citation
 
